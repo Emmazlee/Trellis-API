@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-228-trellis-api-implement-deterministic-duplicate",
+    "fix/issue-236-trellis-api-build-secure-import-pipeline-with",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-228-trellis-api-implement-deterministic-duplicate": "main",
+    "fix/issue-236-trellis-api-build-secure-import-pipeline-with": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-228-trellis-api-implement-deterministic-duplicate",
+    "fix/issue-236-trellis-api-build-secure-import-pipeline-with",
+    "origin"
+  ]
+}
